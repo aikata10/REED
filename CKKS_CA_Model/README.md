@@ -35,7 +35,7 @@ The implementation requires a GNU C++ compiler for the cpp code and a Sage for g
 ## HOW TO RUN
 To run, the user should execute the following command-
 
-$ make clean ; make ; ./main ; make clean
+> $ make clean ; make ; ./main ; make clean
 
 
 ## CONTENTS
