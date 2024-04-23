@@ -52,7 +52,7 @@ This folder contains several files and two main subfolders.
 ## Information on the parameters and chiplet-based design simulation
 
 1. The chiplet behaviour is simulated using multi-threading routine openmp. 
-2. The number of chiplets can be varied {1,2,4,8} by changing the variable `Num_Chiplets in `context_class.cpp`.
+2. The number of chiplets can be varied {1,2,4,8} by changing the variable `Num_Chiplets` in `context_class.cpp`.
 3. Based on both the SW runtime and the cycle-accurate HW runtime, the performance benefit of chiplet-based FHE HW design is validated.
 
 ## Information on HBM data distribution and task distribution
