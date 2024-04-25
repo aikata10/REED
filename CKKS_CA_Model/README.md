@@ -1,7 +1,7 @@
 
 ## CHIEF
 
-Welcome to CHIEF Artefacts!
+Welcome to CHIEF Artifacts!
 
 In support of our work: CHIEF: Chiplet-based Accelerator for Fully Homomorphic Encryption.
 
