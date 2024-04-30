@@ -1,6 +1,6 @@
-## CHIEF
+## REED
 
-This artifact is submitted to support our work: CHIEF: Chiplet-based Accelerator for Fully Homomorphic Encryption.
+This artifact is submitted to support our work: REED: Chiplet-based Accelerator for Fully Homomorphic Encryption.
 
 ## Getting started
 
@@ -26,7 +26,7 @@ For more details on how to run these artefacts, please refer to the README.md fi
 
 ## License
 
-CHIEF is licensed under the terms of the GNU GENERAL PUBLIC LICENSE Version 3. See [LICENSE](LICENSE) for more details.
+REED is licensed under the terms of the GNU GENERAL PUBLIC LICENSE Version 3. See [LICENSE](LICENSE) for more details.
 
 
 
