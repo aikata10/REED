@@ -1,9 +1,9 @@
 
-## CHIEF
+## REED
 
-Welcome to CHIEF Artifacts!
+Welcome to REED Artifacts!
 
-In support of our work: CHIEF: Chiplet-based Accelerator for Fully Homomorphic Encryption.
+In support of our work: REED: Chiplet-based Accelerator for Fully Homomorphic Encryption.
 
 ## Getting started
 
